@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Assignment7/Assignment7.csproj" />
+  <Project Path="FineCalculator.Tests/FineCalculator.Tests.csproj" />
+  <Project Path="FineCalculatorTests/FineCalculatorTests.csproj" />
+</Solution>
